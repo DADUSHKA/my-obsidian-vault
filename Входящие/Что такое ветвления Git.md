@@ -1,0 +1,5 @@
+Ветвления в Git — **это создание новых веток с целью отклонения от основной линии разработки**. [base-python.readthedocs.io](https://base-python.readthedocs.io/en/latest/chapters/07_git/02_git/git_04_branch.html)
+
+Причины создания могут быть разными: создание и тестирование нового функционала, отладка имеющегося кода. Работа в новой ветке не затрагивает функционирование основной ветки. [base-python.readthedocs.io](https://base-python.readthedocs.io/en/latest/chapters/07_git/02_git/git_04_branch.html)
+
+**Ветка в Git — это указатель, который указывает на конкретный коммит в истории изменений**. У каждой ветки есть своё название. Основная ветка чаще всего называется master, она появляется при инициализации репозитория и считается главной веткой проекта. Другим веткам можно давать имена самостоятельно. [help.reg.ru](https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/rabota-s-vetkami-v-git)
